@@ -1,7 +1,7 @@
 name = Zero
 type = body+head
 scale = 1
-filename = Zero.fbx
+filename = https://github.com/johnsavath/HiFi/blob/master/Zero/Zero.fbx
 texdir = textures
 jointMap = Hips = mixamorig:Hips
 jointMap = LeftUpLeg = mixamorig:LeftUpLeg

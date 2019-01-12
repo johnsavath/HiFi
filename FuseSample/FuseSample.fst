@@ -1,7 +1,7 @@
 name = FuseSample
 type = body+head
 scale = 1
-filename = FuseSample/FuseSample.fbx
+filename = https://github.com/johnsavath/HiFi/blob/master/FuseSample/FuseSample/FuseSample.fbx
 texdir = FuseSample/textures
 joint = jointLeftHand = LeftHand
 joint = jointLean = Spine

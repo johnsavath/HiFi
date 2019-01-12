@@ -1,7 +1,7 @@
 name = Zero
 type = body+head
 scale = 1
-filename = Zero/Zero v.2 - ZX.fbx
+filename = Zero/Zero.fbx
 texdir = Zero/textures
 joint = jointRightHand = RightHand
 joint = jointLeftHand = LeftHand
